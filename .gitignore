@@ -55,6 +55,9 @@ local_settings.py
 
 # Flask stuff:
 instance/
+
+# Pycharm
+.idea
 .webassets-cache
 
 # Scrapy stuff:
